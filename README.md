@@ -2,7 +2,7 @@
 
 A simple and responsive personal portfolio landing page built using **HTML and CSS**.
 
-This project was created as part of my **Week 1 Web Development Practice** to learn the basics of semantic HTML, CSS layouts, Flexbox, Grid and responsive design.
+This project was created as part of my **Mission 1 - Web Development Practice** to learn the basics of semantic HTML, CSS layouts, Flexbox, Grid and responsive design.
 
 ## 🚀 Features
 
